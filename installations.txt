@@ -1,0 +1,7 @@
+installation
+
+pip install google-services-api
+
+pip install google-play-scraper
+
+pip3 install nltk
